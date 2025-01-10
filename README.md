@@ -15,7 +15,7 @@ This project implements a Virtual Mouse that allows you to control your computer
 
 -->Clone the repository:
 
-     ->git clone https://github.com/your-username/virtual-mouse
+     ->git clone https://github.com/Aj242005/virtual-mouse
 
      ->cd virtual-mouse
 
